@@ -1,0 +1,31 @@
+body{
+	background: black;
+	color: #fff;
+
+
+}
+.navbar{
+	width: 100%;
+	height: auto;
+	color: #fff;
+	background: green;
+	margin-top: 0px;
+
+}
+
+.herobar{
+	text-align: center;
+	padding-top: 220px;
+	padding-bottom: 220px;
+
+}
+
+.footer{
+	background-color: red;
+	color: white;
+	width: 100%;
+	height: auto;
+	margin-bottom: 0;
+	padding-bottom: 0px;
+	
+}
